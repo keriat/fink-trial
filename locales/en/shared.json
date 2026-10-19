@@ -1,4 +1,5 @@
 {
+  "testMessage": "English text",
   "accountSetup": {
     "finishing": "Finishing account setup…"
   },
