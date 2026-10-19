@@ -1,1 +1,5 @@
-{}
+{
+	"timelock": {
+		"days": "{total}{total, plural, one { де́нь} few { дні} many { днів} other { днів}}"
+	}
+}
