@@ -1,6 +1,6 @@
 {
   "chains": {
-    "payingWithNetworks": "Paying with {total, plural, one {# Network} other {# Networks}}",
+    "payingWithNetworks": "Paying with {total, plural, one {#} other {#}} Network",
     "payingWithSymbols": "Paying with {symbols}",
     "selectNetworks": "Select networks"
   },
