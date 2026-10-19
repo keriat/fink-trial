@@ -1,0 +1,57 @@
+{
+  "accountSetup": {
+    "finishing": "Finalizando a configuração da conta…"
+  },
+  "biometric": {
+    "cancel": "Cancelar",
+    "fallback": "Alternativa"
+  },
+  "errorContext": {
+    "on": "em"
+  },
+  "errorFallback": {
+    "contactSupport": "Contatar Suporte",
+    "debugCopied": "Informações de depuração copiadas!",
+    "logOut": "Sair",
+    "retry": "Tentar Novamente",
+    "retrying": "Tentando novamente...",
+    "subtitleLine1": "A equipe está ciente e trabalhando nisso.",
+    "subtitleLine2": "Pedimos desculpas por qualquer inconveniente.",
+    "title": "O aplicativo está enfrentando problemas no momento."
+  },
+  "passkeyContext": {
+    "browserOnPlatform": "{browser} em {platform}",
+    "superformApp": "Aplicativo Superform"
+  },
+  "screenHeader": {
+    "goBack": "Voltar"
+  },
+  "tabs": {
+    "earn": "Ganhar",
+    "home": "Início",
+    "search": "Buscar",
+    "spend": "Gastar",
+    "trade": "Negociar"
+  },
+  "timeAgo": {
+    "day": "há {total}d",
+    "hour": "há {total}h",
+    "justNow": "agora mesmo",
+    "minute": "há {total}min",
+    "month": "há {total}m",
+    "second": "há {total}s",
+    "year": "há {total}a"
+  },
+  "timelock": {
+    "days": "{total, plural, one {{total} dia} other {{total} dias}}",
+    "hours": "{total, plural, one {{total} hora} other {{total} horas}}"
+  },
+  "transactionError": {
+    "changeFundingSource": "Alterar Fonte de Financiamento",
+    "increaseBy": "Aumentar em ${deficit}"
+  },
+  "withdrawalProcessing": {
+    "subtitle": "Seus fundos sacados serão depositados em sua conta em aproximadamente {duration}.",
+    "title": "Processando Saque: ~{duration}"
+  }
+}

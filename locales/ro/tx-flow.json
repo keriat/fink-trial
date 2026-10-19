@@ -1,0 +1,85 @@
+{
+  "chains": {
+    "payingWithNetworks": "Plătești cu {total, plural, one {# rețea} few {# rețele} other {# de rețele}}",
+    "payingWithSymbols": "Plătești cu {symbols}",
+    "selectNetworks": "Selectează rețelele"
+  },
+  "configuration": {
+    "available": "{amount} disponibil",
+    "deposit": "Depune",
+    "insufficientFundsCta": "Fonduri insuficiente",
+    "reviewCta": "Revizuiește",
+    "usdValue": "${amount}",
+    "withdraw": "Retrage"
+  },
+  "destination": {
+    "depositingInto": "Depui în",
+    "selectAsset": "Selectează un activ",
+    "selectVault": "Selectează un seif",
+    "to": "Către"
+  },
+  "error": {
+    "boundaryTitle": "Eroare de tranzacție",
+    "hideDetails": "Ascunde detaliile",
+    "htmlErrorHidden": "Serverul a returnat o pagină de eroare HTML — detaliile sunt ascunse.",
+    "reportCta": "Raportează eroarea",
+    "reportingCta": "Se raportează…",
+    "showDetails": "Afișează detaliile"
+  },
+  "review": {
+    "ctaDeposit": "Confirmă și depune",
+    "ctaWithdraw": "Confirmă și retrage",
+    "earningApy": "CÂȘTIGI {apy}% APY",
+    "free": "GRATUIT",
+    "titleDeposit": "Confirmă depunerea",
+    "titleWithdrawal": "Confirmă retragerea",
+    "transactionCost": "Cost tranzacție",
+    "unknownSymbol": "NECUNOSCUT"
+  },
+  "row": {
+    "apy": "{apy}% apy",
+    "earningApy": "Câștigi {apy}%"
+  },
+  "slippage": {
+    "applyCta": "Aplică",
+    "autoOption": "Automat ({value}%)",
+    "customOption": "Personalizat",
+    "description": "Diferența maximă de preț pe care o accepți la swap-uri și bridge-uri în această tranzacție. Un slippage mai mare ajută tranzacțiile să se finalizeze pe piețe volatile sau cu lichiditate redusă.",
+    "enterValueAboveZero": "Introdu o valoare peste 0%",
+    "rowDescription": "Diferența maximă de preț acceptată la swap-uri și bridge-uri în orice tranzacție.",
+    "setSuccess": "Slippage setat la {value}%",
+    "title": "Toleranță la slippage"
+  },
+  "source": {
+    "choosePaymentMethod": "Alege metoda de plată",
+    "payingWith": "Plătești cu",
+    "selectToken": "Selectează un token",
+    "tokens": "{total, plural, one {# token} few {# tokenuri} other {# de tokenuri}}",
+    "withdrawingFrom": "Retragi din"
+  },
+  "success": {
+    "depositTitle": "Depunere reușită",
+    "done": "Gata",
+    "processing": "Se procesează",
+    "received": "Primit",
+    "viewTransaction": "Vezi tranzacția",
+    "viewTransactionA11y": "Vezi tranzacția",
+    "withdrawRequestedTitle": "Retragere solicitată",
+    "withdrawTitle": "Retragere reușită"
+  },
+  "vaults": {
+    "availableOpportunities": "Oportunități disponibile",
+    "headerOpportunities": "Oportunități {name}",
+    "providerOnChain": "pe {chainName}"
+  },
+  "walletUnavailable": {
+    "cancelCta": "Anulează",
+    "logoutCta": "Deconectare",
+    "message": "Nu am putut accesa wallet-ul tău. Te rugăm să te autentifici din nou pentru a continua.",
+    "title": "Semnarea nu a putut fi realizată"
+  },
+  "withdrawal": {
+    "searchPlaceholder": "Caută un activ...",
+    "title": "Retragi către"
+  }
+}

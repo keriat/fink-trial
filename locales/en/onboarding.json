@@ -1,0 +1,25 @@
+{
+  "signUpPasskey": {
+    "codesReason": "Creating your passkey also created backup codes for your account. Store them now — they're your only way back in if you lose access to your passkey.",
+    "skipCta": "Skip"
+  },
+  "slides": {
+    "buy": {
+      "footer": "Superform has what you’re looking for.",
+      "subtitle": "Buy & sell tokenized stocks or cryptocurrencies like Bitcoin.",
+      "subtitleUs": "Buy & sell digital assets. Superform gives you access to everything.",
+      "title": "Invest in US companies, no strings attached",
+      "titleUs": "Buy Ethereum, Bitcoin, & Memecoins"
+    },
+    "dollars": {
+      "footer": "Money works for you, not your bank.",
+      "subtitle": "Earn up to 10% just for holding US dollars.",
+      "title": "Hold US dollars, earn in US dollars, daily."
+    },
+    "send": {
+      "footer": "No credit card fees, no banks, no hassle.",
+      "subtitle": "Better. Faster. Cheaper.",
+      "title": "Pay anyone, anywhere, instantly."
+    }
+  }
+}

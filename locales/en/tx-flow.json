@@ -1,0 +1,85 @@
+{
+  "chains": {
+    "payingWithNetworks": "Paying with {total, plural, one {# Network} other {# Networks}}",
+    "payingWithSymbols": "Paying with {symbols}",
+    "selectNetworks": "Select networks"
+  },
+  "configuration": {
+    "available": "{amount} Available",
+    "deposit": "Deposit",
+    "insufficientFundsCta": "Insufficient funds",
+    "reviewCta": "Review",
+    "usdValue": "${amount}",
+    "withdraw": "Withdraw"
+  },
+  "destination": {
+    "depositingInto": "Depositing into",
+    "selectAsset": "Select an asset",
+    "selectVault": "Select a vault",
+    "to": "To"
+  },
+  "error": {
+    "boundaryTitle": "Transaction Error",
+    "hideDetails": "Hide details",
+    "htmlErrorHidden": "Server returned an HTML error page — details hidden.",
+    "reportCta": "Report Error",
+    "reportingCta": "Reporting…",
+    "showDetails": "Show details"
+  },
+  "review": {
+    "ctaDeposit": "Confirm & Deposit",
+    "ctaWithdraw": "Confirm & Withdraw",
+    "earningApy": "EARNING {apy}% APY",
+    "free": "FREE",
+    "titleDeposit": "Confirm Deposit",
+    "titleWithdrawal": "Confirm Withdrawal",
+    "transactionCost": "Transaction Cost",
+    "unknownSymbol": "UNKNOWN"
+  },
+  "row": {
+    "apy": "{apy}% apy",
+    "earningApy": "Earning {apy}%"
+  },
+  "slippage": {
+    "applyCta": "Apply",
+    "autoOption": "Auto ({value}%)",
+    "customOption": "Custom",
+    "description": "Maximum price difference you'll accept on swaps and bridges in this transaction. Higher slippage helps trades complete in volatile or low-liquidity markets.",
+    "enterValueAboveZero": "Enter a value above 0%",
+    "rowDescription": "Max price difference accepted on swaps and bridges inside any transaction.",
+    "setSuccess": "Slippage set to {value}%",
+    "title": "Slippage tolerance"
+  },
+  "source": {
+    "choosePaymentMethod": "Choose Payment Method",
+    "payingWith": "Paying with",
+    "selectToken": "Select a token",
+    "tokens": "{total, plural, one {# token} other {# tokens}}",
+    "withdrawingFrom": "Withdrawing from"
+  },
+  "success": {
+    "depositTitle": "Deposit Successful",
+    "done": "Done",
+    "processing": "Processing",
+    "received": "Received",
+    "viewTransaction": "View Transaction",
+    "viewTransactionA11y": "View transaction",
+    "withdrawRequestedTitle": "Withdrawal Requested",
+    "withdrawTitle": "Withdrawal Successful"
+  },
+  "vaults": {
+    "availableOpportunities": "Available Opportunities",
+    "headerOpportunities": "{name} Opportunities",
+    "providerOnChain": "on {chainName}"
+  },
+  "walletUnavailable": {
+    "cancelCta": "Cancel",
+    "logoutCta": "Log Out",
+    "message": "We couldn't access your wallet. Please log in again to continue.",
+    "title": "Unable to Sign"
+  },
+  "withdrawal": {
+    "searchPlaceholder": "Search for asset...",
+    "title": "Withdrawing to"
+  }
+}

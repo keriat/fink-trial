@@ -1,0 +1,37 @@
+{
+  "biometric": {
+    "cancel": "取消",
+    "prompt": "请进行身份验证以领取您的提款",
+    "usePasscode": "使用密码"
+  },
+  "claiming": "领取中",
+  "errors": {
+    "authUnavailable": "此设备不支持身份验证。",
+    "bundlerExpired": "打包器操作已过期。请重试。",
+    "claimFailed": "领取失败。请重试。",
+    "claimNotReady": "领取尚未准备好。请重试。",
+    "claimTimedOut": "领取时间超出预期。确认后余额将更新。",
+    "vaultUnresolved": "无法解析此金库。请稍后重试。",
+    "walletChanged": "领取过程中钱包已更改。请重试。",
+    "walletInvalid": "钱包地址无效。请重新连接。"
+  },
+  "sheet": {
+    "confirmAccessibility": "确认并领取提款",
+    "confirmCta": "确认并领取",
+    "fee": {
+      "amount": "费用 {fee}",
+      "calculating": "正在计算费用……",
+      "free": "免费",
+      "unavailable": "费用 —"
+    },
+    "loading": "计算中……",
+    "title": "领取提款？"
+  },
+  "success": {
+    "done": "完成",
+    "title": "提款已领取"
+  },
+  "toasts": {
+    "claimed": "提款领取成功"
+  }
+}

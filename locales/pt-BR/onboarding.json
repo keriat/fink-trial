@@ -1,0 +1,25 @@
+{
+  "signUpPasskey": {
+    "codesReason": "A criação da sua chave de acesso também gerou códigos de backup para sua conta. Guarde-os agora — são sua única forma de voltar se você perder o acesso à sua chave de acesso.",
+    "skipCta": "Pular"
+  },
+  "slides": {
+    "buy": {
+      "footer": "A Superform tem o que você está procurando.",
+      "subtitle": "Compre e venda ações tokenizadas ou criptomoedas como o Bitcoin.",
+      "subtitleUs": "Compre e venda ativos digitais. A Superform dá acesso a tudo.",
+      "title": "Invista em empresas dos EUA, sem amarras",
+      "titleUs": "Compre Ethereum, Bitcoin e memecoins"
+    },
+    "dollars": {
+      "footer": "O dinheiro trabalha para você, não para o banco.",
+      "subtitle": "Ganhe até 10% apenas por manter dólares.",
+      "title": "Tenha dólares e ganhe em dólares, todos os dias."
+    },
+    "send": {
+      "footer": "Sem taxas de cartão de crédito, sem bancos, sem complicações.",
+      "subtitle": "Melhor. Mais rápido. Mais barato.",
+      "title": "Pague qualquer pessoa, onde for, na hora."
+    }
+  }
+}

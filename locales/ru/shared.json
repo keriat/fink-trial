@@ -1,0 +1,57 @@
+{
+  "accountSetup": {
+    "finishing": "Завершаем настройку аккаунта…"
+  },
+  "biometric": {
+    "cancel": "Отмена",
+    "fallback": "Резервный вариант"
+  },
+  "errorContext": {
+    "on": "на"
+  },
+  "errorFallback": {
+    "contactSupport": "Связаться с поддержкой",
+    "debugCopied": "Отладочная информация скопирована!",
+    "logOut": "Выйти",
+    "retry": "Повторить",
+    "retrying": "Повторная попытка...",
+    "subtitleLine1": "Команда в курсе проблемы и работает над её решением.",
+    "subtitleLine2": "Приносим извинения за доставленные неудобства.",
+    "title": "В данный момент приложение испытывает проблемы."
+  },
+  "passkeyContext": {
+    "browserOnPlatform": "{browser} на {platform}",
+    "superformApp": "Приложение Superform"
+  },
+  "screenHeader": {
+    "goBack": "Вернуться"
+  },
+  "tabs": {
+    "earn": "Заработать",
+    "home": "Главная",
+    "search": "Поиск",
+    "spend": "Потратить",
+    "trade": "Торговля"
+  },
+  "timeAgo": {
+    "day": "{total}д назад",
+    "hour": "{total}ч назад",
+    "justNow": "только что",
+    "minute": "{total}мин назад",
+    "month": "{total}мес назад",
+    "second": "{total}с назад",
+    "year": "{total}г назад"
+  },
+  "timelock": {
+    "days": "{total, plural, one {{total} день} few {{total} дня} many {{total} дней} other {{total} дня}}",
+    "hours": "{total, plural, one {{total} час} few {{total} часа} many {{total} часов} other {{total} часа}}"
+  },
+  "transactionError": {
+    "changeFundingSource": "Изменить источник финансирования",
+    "increaseBy": "Увеличить на ${deficit}"
+  },
+  "withdrawalProcessing": {
+    "subtitle": "Выведенные средства будут зачислены на ваш счёт приблизительно через {duration}.",
+    "title": "Обработка вывода: ~{duration}"
+  }
+}

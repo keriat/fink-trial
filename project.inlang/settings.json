@@ -1,0 +1,16 @@
+{
+  "$schema": "https://inlang.com/schema/project-settings",
+  "baseLocale": "en",
+  "locales": ["en", "ru", "ro", "zh-Hans", "pt-BR"],
+  "modules": [
+    "https://cdn.jsdelivr.net/npm/@inlang/plugin-next-intl@2/dist/index.js"
+  ],
+  "plugin.inlang.nextIntl": {
+    "pathPattern": {
+      "onboarding": "./locales/{locale}/onboarding.json",
+      "shared": "./locales/{locale}/shared.json",
+      "txFlow": "./locales/{locale}/tx-flow.json",
+      "withdrawalClaim": "./locales/{locale}/withdrawal-claim.json"
+    }
+  }
+}

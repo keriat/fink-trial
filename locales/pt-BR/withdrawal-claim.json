@@ -1,0 +1,37 @@
+{
+  "biometric": {
+    "cancel": "Cancelar",
+    "prompt": "Autentique-se para reivindicar seu saque",
+    "usePasscode": "Usar Código"
+  },
+  "claiming": "Reivindicando",
+  "errors": {
+    "authUnavailable": "A autenticação não está disponível neste dispositivo.",
+    "bundlerExpired": "A operação do bundler expirou. Por favor, tente novamente.",
+    "claimFailed": "Falha na reivindicação. Por favor, tente novamente.",
+    "claimNotReady": "A reivindicação não está pronta. Por favor, tente novamente.",
+    "claimTimedOut": "A reivindicação está demorando mais do que o esperado. Os saldos serão atualizados assim que for confirmada.",
+    "vaultUnresolved": "Não foi possível resolver este cofre. Por favor, tente novamente mais tarde.",
+    "walletChanged": "A carteira foi alterada durante a reivindicação. Por favor, tente novamente.",
+    "walletInvalid": "Endereço da carteira inválido. Por favor, reconecte."
+  },
+  "sheet": {
+    "confirmAccessibility": "Confirmar e reivindicar saque",
+    "confirmCta": "Confirmar e Reivindicar",
+    "fee": {
+      "amount": "Taxa {fee}",
+      "calculating": "Calculando taxa...",
+      "free": "GRÁTIS",
+      "unavailable": "Taxa —"
+    },
+    "loading": "Calculando...",
+    "title": "Reivindicar Saque?"
+  },
+  "success": {
+    "done": "Concluído",
+    "title": "Saque Reivindicado"
+  },
+  "toasts": {
+    "claimed": "Saque reivindicado com sucesso"
+  }
+}

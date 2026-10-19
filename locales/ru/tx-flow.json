@@ -1,0 +1,85 @@
+{
+  "chains": {
+    "payingWithNetworks": "Оплата с использованием {total, plural, one {# сети} few {# сетей} many {# сетей} other {# сетей}}",
+    "payingWithSymbols": "Оплата с использованием {symbols}",
+    "selectNetworks": "Выберите сети"
+  },
+  "configuration": {
+    "available": "{amount} Доступно",
+    "deposit": "Внести",
+    "insufficientFundsCta": "Недостаточно средств",
+    "reviewCta": "Проверить",
+    "usdValue": "${amount}",
+    "withdraw": "Вывести"
+  },
+  "destination": {
+    "depositingInto": "Депозит в",
+    "selectAsset": "Выберите актив",
+    "selectVault": "Выберите хранилище",
+    "to": "Куда"
+  },
+  "error": {
+    "boundaryTitle": "Ошибка транзакции",
+    "hideDetails": "Скрыть детали",
+    "htmlErrorHidden": "Сервер вернул HTML-страницу с ошибкой — подробности скрыты.",
+    "reportCta": "Сообщить об ошибке",
+    "reportingCta": "Отправка отчета…",
+    "showDetails": "Показать детали"
+  },
+  "review": {
+    "ctaDeposit": "Подтвердить и внести депозит",
+    "ctaWithdraw": "Подтвердить и вывести",
+    "earningApy": "ПРИНОСИТ {apy}% ГОДОВЫХ",
+    "free": "БЕСПЛАТНО",
+    "titleDeposit": "Подтверждение депозита",
+    "titleWithdrawal": "Подтверждение вывода",
+    "transactionCost": "Стоимость транзакции",
+    "unknownSymbol": "НЕИЗВЕСТНО"
+  },
+  "row": {
+    "apy": "{apy}% годовых",
+    "earningApy": "Доходность {apy}%"
+  },
+  "slippage": {
+    "applyCta": "Применить",
+    "autoOption": "Авто ({value}%)",
+    "customOption": "Пользовательское",
+    "description": "Максимальная разница цен, которую вы примете при обменах и мостах в этой транзакции. Более высокое проскальзывание помогает сделкам завершаться на волатильных рынках или рынках с низкой ликвидностью.",
+    "enterValueAboveZero": "Введите значение больше 0%",
+    "rowDescription": "Максимальная разница цен, допустимая при обменах и мостах внутри любой транзакции.",
+    "setSuccess": "Проскальзывание установлено на {value}%",
+    "title": "Допустимое проскальзывание"
+  },
+  "source": {
+    "choosePaymentMethod": "Выберите способ оплаты",
+    "payingWith": "Оплата с помощью",
+    "selectToken": "Выберите токен",
+    "tokens": "{total, plural, one {# токен} few {# токена} many {# токенов} other {# токена}}",
+    "withdrawingFrom": "Вывод из"
+  },
+  "success": {
+    "depositTitle": "Депозит выполнен",
+    "done": "Готово",
+    "processing": "Обработка",
+    "received": "Получено",
+    "viewTransaction": "Посмотреть транзакцию",
+    "viewTransactionA11y": "Посмотреть транзакцию",
+    "withdrawRequestedTitle": "Вывод запрошен",
+    "withdrawTitle": "Вывод выполнен"
+  },
+  "vaults": {
+    "availableOpportunities": "Доступные возможности",
+    "headerOpportunities": "Возможности {name}",
+    "providerOnChain": "в сети {chainName}"
+  },
+  "walletUnavailable": {
+    "cancelCta": "Отмена",
+    "logoutCta": "Выйти",
+    "message": "Не удалось получить доступ к вашему кошельку. Пожалуйста, войдите снова, чтобы продолжить.",
+    "title": "Невозможно подписать"
+  },
+  "withdrawal": {
+    "searchPlaceholder": "Поиск актива...",
+    "title": "Вывод на"
+  }
+}

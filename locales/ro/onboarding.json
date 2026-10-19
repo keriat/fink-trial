@@ -1,0 +1,25 @@
+{
+  "signUpPasskey": {
+    "codesReason": "Crearea passkey-ului a generat și coduri de backup pentru contul tău. Salvează-le acum — sunt singura ta cale de întoarcere dacă pierzi accesul la passkey.",
+    "skipCta": "Omite"
+  },
+  "slides": {
+    "buy": {
+      "footer": "Superform are exact ce cauți.",
+      "subtitle": "Cumpără și vinde acțiuni tokenizate sau criptomonede precum Bitcoin.",
+      "subtitleUs": "Cumpără și vinde active digitale. Superform îți oferă acces la tot.",
+      "title": "Investește în companii din SUA, fără condiții",
+      "titleUs": "Cumpără Ethereum, Bitcoin și memecoins"
+    },
+    "dollars": {
+      "footer": "Banii muncesc pentru tine, nu pentru banca ta.",
+      "subtitle": "Câștigă până la 10% doar pentru că ții dolari americani.",
+      "title": "Ține dolari americani, câștigă zilnic."
+    },
+    "send": {
+      "footer": "Fără taxe de card, fără bănci, fără bătăi de cap.",
+      "subtitle": "Mai bine. Mai rapid. Mai ieftin.",
+      "title": "Plătește oricui, oriunde, instant."
+    }
+  }
+}

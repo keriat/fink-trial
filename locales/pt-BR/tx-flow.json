@@ -1,0 +1,85 @@
+{
+  "chains": {
+    "payingWithNetworks": "Pagando com {total, plural, one {# Rede} other {# Redes}}",
+    "payingWithSymbols": "Pagando com {symbols}",
+    "selectNetworks": "Selecionar redes"
+  },
+  "configuration": {
+    "available": "{amount} Disponível",
+    "deposit": "Depositar",
+    "insufficientFundsCta": "Fundos insuficientes",
+    "reviewCta": "Revisar",
+    "usdValue": "${amount}",
+    "withdraw": "Sacar"
+  },
+  "destination": {
+    "depositingInto": "Depositando em",
+    "selectAsset": "Selecionar um ativo",
+    "selectVault": "Selecionar um cofre",
+    "to": "Para"
+  },
+  "error": {
+    "boundaryTitle": "Erro na Transação",
+    "hideDetails": "Ocultar detalhes",
+    "htmlErrorHidden": "O servidor retornou uma página de erro HTML — os detalhes estão ocultos.",
+    "reportCta": "Relatar Erro",
+    "reportingCta": "Relatando…",
+    "showDetails": "Mostrar detalhes"
+  },
+  "review": {
+    "ctaDeposit": "Confirmar e Depositar",
+    "ctaWithdraw": "Confirmar e Sacar",
+    "earningApy": "RENDENDO {apy}% APY",
+    "free": "GRÁTIS",
+    "titleDeposit": "Confirmar Depósito",
+    "titleWithdrawal": "Confirmar Saque",
+    "transactionCost": "Custo da Transação",
+    "unknownSymbol": "DESCONHECIDO"
+  },
+  "row": {
+    "apy": "{apy}% apy",
+    "earningApy": "Rendendo {apy}%"
+  },
+  "slippage": {
+    "applyCta": "Aplicar",
+    "autoOption": "Automático ({value}%)",
+    "customOption": "Personalizado",
+    "description": "Diferença máxima de preço que você aceitará em trocas e pontes nesta transação. Slippage mais alto ajuda as negociações a serem concluídas em mercados voláteis ou com baixa liquidez.",
+    "enterValueAboveZero": "Insira um valor acima de 0%",
+    "rowDescription": "Diferença máxima de preço aceita em trocas e pontes dentro de qualquer transação.",
+    "setSuccess": "Slippage definido para {value}%",
+    "title": "Tolerância de slippage"
+  },
+  "source": {
+    "choosePaymentMethod": "Escolher Método de Pagamento",
+    "payingWith": "Pagando com",
+    "selectToken": "Selecionar um token",
+    "tokens": "{total, plural, one {# token} other {# tokens}}",
+    "withdrawingFrom": "Sacando de"
+  },
+  "success": {
+    "depositTitle": "Depósito concluído",
+    "done": "Concluído",
+    "processing": "Processando",
+    "received": "Recebido",
+    "viewTransaction": "Ver Transação",
+    "viewTransactionA11y": "Ver transação",
+    "withdrawRequestedTitle": "Saque solicitado",
+    "withdrawTitle": "Saque concluído"
+  },
+  "vaults": {
+    "availableOpportunities": "Oportunidades Disponíveis",
+    "headerOpportunities": "Oportunidades de {name}",
+    "providerOnChain": "em {chainName}"
+  },
+  "walletUnavailable": {
+    "cancelCta": "Cancelar",
+    "logoutCta": "Sair",
+    "message": "Não foi possível acessar sua carteira. Por favor, faça login novamente para continuar.",
+    "title": "Não foi Possível Assinar"
+  },
+  "withdrawal": {
+    "searchPlaceholder": "Buscar ativo...",
+    "title": "Sacando para"
+  }
+}

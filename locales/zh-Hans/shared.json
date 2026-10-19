@@ -1,0 +1,57 @@
+{
+  "accountSetup": {
+    "finishing": "正在完成账户设置…"
+  },
+  "biometric": {
+    "cancel": "取消",
+    "fallback": "备用选项"
+  },
+  "errorContext": {
+    "on": "在"
+  },
+  "errorFallback": {
+    "contactSupport": "联系支持",
+    "debugCopied": "调试信息已复制！",
+    "logOut": "退出登录",
+    "retry": "重试",
+    "retrying": "正在重试……",
+    "subtitleLine1": "团队已知晓并正在处理中。",
+    "subtitleLine2": "对于给您带来的不便，我们深表歉意。",
+    "title": "应用程序当前遇到问题。"
+  },
+  "passkeyContext": {
+    "browserOnPlatform": "{platform}上的{browser}",
+    "superformApp": "Superform应用"
+  },
+  "screenHeader": {
+    "goBack": "返回"
+  },
+  "tabs": {
+    "earn": "赚取",
+    "home": "主页",
+    "search": "搜索",
+    "spend": "消费",
+    "trade": "交易"
+  },
+  "timeAgo": {
+    "day": "{total}天前",
+    "hour": "{total}小时前",
+    "justNow": "刚刚",
+    "minute": "{total}分钟前",
+    "month": "{total}个月前",
+    "second": "{total}秒前",
+    "year": "{total}年前"
+  },
+  "timelock": {
+    "days": "{total, plural, other {{total}天}}",
+    "hours": "{total, plural, other {{total}小时}}"
+  },
+  "transactionError": {
+    "changeFundingSource": "更改资金来源",
+    "increaseBy": "增加${deficit}"
+  },
+  "withdrawalProcessing": {
+    "subtitle": "您提取的资金将在大约{duration}内存入您的账户。",
+    "title": "提款处理中：约{duration}"
+  }
+}

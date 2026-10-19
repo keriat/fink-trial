@@ -1,0 +1,85 @@
+{
+  "chains": {
+    "payingWithNetworks": "使用 {total, plural, other {# 个网络}} 支付",
+    "payingWithSymbols": "使用 {symbols} 支付",
+    "selectNetworks": "选择网络"
+  },
+  "configuration": {
+    "available": "{amount} 可用",
+    "deposit": "存入",
+    "insufficientFundsCta": "余额不足",
+    "reviewCta": "查看",
+    "usdValue": "${amount}",
+    "withdraw": "提取"
+  },
+  "destination": {
+    "depositingInto": "存入到",
+    "selectAsset": "选择资产",
+    "selectVault": "选择金库",
+    "to": "到"
+  },
+  "error": {
+    "boundaryTitle": "交易错误",
+    "hideDetails": "隐藏详情",
+    "htmlErrorHidden": "服务器返回了 HTML 错误页面——详细信息已隐藏。",
+    "reportCta": "报告错误",
+    "reportingCta": "报告中…",
+    "showDetails": "显示详情"
+  },
+  "review": {
+    "ctaDeposit": "确认并存入",
+    "ctaWithdraw": "确认并提取",
+    "earningApy": "赚取 {apy}% 年化收益率",
+    "free": "免费",
+    "titleDeposit": "确认存入",
+    "titleWithdrawal": "确认提取",
+    "transactionCost": "交易费用",
+    "unknownSymbol": "未知"
+  },
+  "row": {
+    "apy": "{apy}% 年化收益率",
+    "earningApy": "赚取 {apy}%"
+  },
+  "slippage": {
+    "applyCta": "应用",
+    "autoOption": "自动 ({value}%)",
+    "customOption": "自定义",
+    "description": "您在此交易中对兑换和跨链桥接可接受的最大价格差异。较高的滑点有助于在波动或低流动性市场中完成交易。",
+    "enterValueAboveZero": "请输入大于 0% 的值",
+    "rowDescription": "任何交易中兑换和跨链桥接可接受的最大价格差异。",
+    "setSuccess": "滑点已设置为 {value}%",
+    "title": "滑点容差"
+  },
+  "source": {
+    "choosePaymentMethod": "选择支付方式",
+    "payingWith": "支付方式",
+    "selectToken": "选择代币",
+    "tokens": "{total, plural, other {# 个代币}}",
+    "withdrawingFrom": "提取自"
+  },
+  "success": {
+    "depositTitle": "存入成功",
+    "done": "完成",
+    "processing": "处理中",
+    "received": "已接收",
+    "viewTransaction": "查看交易",
+    "viewTransactionA11y": "查看交易",
+    "withdrawRequestedTitle": "已申请提取",
+    "withdrawTitle": "提取成功"
+  },
+  "vaults": {
+    "availableOpportunities": "可选收益机会",
+    "headerOpportunities": "{name} 机会",
+    "providerOnChain": "在 {chainName} 上"
+  },
+  "walletUnavailable": {
+    "cancelCta": "取消",
+    "logoutCta": "退出登录",
+    "message": "我们无法访问您的钱包。请重新登录以继续。",
+    "title": "无法签名"
+  },
+  "withdrawal": {
+    "searchPlaceholder": "搜索资产……",
+    "title": "提取到"
+  }
+}

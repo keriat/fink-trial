@@ -1,0 +1,37 @@
+{
+  "biometric": {
+    "cancel": "Anulează",
+    "prompt": "Autentifică-te pentru a revendica retragerea",
+    "usePasscode": "Folosește codul de acces"
+  },
+  "claiming": "Se revendică",
+  "errors": {
+    "authUnavailable": "Autentificarea nu este disponibilă pe acest dispozitiv.",
+    "bundlerExpired": "Operațiunea bundler a expirat. Încearcă din nou.",
+    "claimFailed": "Revendicarea a eșuat. Încearcă din nou.",
+    "claimNotReady": "Revendicarea nu este pregătită. Încearcă din nou.",
+    "claimTimedOut": "Revendicarea durează mai mult decât era prevăzut. Soldurile se vor actualiza după confirmare.",
+    "vaultUnresolved": "Nu am putut identifica acest seif. Încearcă din nou mai târziu.",
+    "walletChanged": "Wallet-ul s-a schimbat în timpul revendicării. Încearcă din nou.",
+    "walletInvalid": "Adresa wallet-ului este invalidă. Reconectează-te."
+  },
+  "sheet": {
+    "confirmAccessibility": "Confirmă și revendică retragerea",
+    "confirmCta": "Confirmă și revendică",
+    "fee": {
+      "amount": "Comision {fee}",
+      "calculating": "Se calculează comisionul...",
+      "free": "GRATUIT",
+      "unavailable": "Comision —"
+    },
+    "loading": "Se calculează...",
+    "title": "Revendici retragerea?"
+  },
+  "success": {
+    "done": "Gata",
+    "title": "Retragere revendicată"
+  },
+  "toasts": {
+    "claimed": "Retragere revendicată cu succes"
+  }
+}

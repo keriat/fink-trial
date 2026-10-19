@@ -1,0 +1,57 @@
+{
+  "accountSetup": {
+    "finishing": "Se finalizează configurarea contului…"
+  },
+  "biometric": {
+    "cancel": "Anulează",
+    "fallback": "Alternativă"
+  },
+  "errorContext": {
+    "on": "pe"
+  },
+  "errorFallback": {
+    "contactSupport": "Contactează suportul",
+    "debugCopied": "Informațiile de depanare au fost copiate!",
+    "logOut": "Deconectare",
+    "retry": "Reîncearcă",
+    "retrying": "Se reîncearcă...",
+    "subtitleLine1": "Echipa este informată și lucrează la remediere.",
+    "subtitleLine2": "Ne scuzăm pentru orice neplăcere.",
+    "title": "Aplicația întâmpină probleme în acest moment."
+  },
+  "passkeyContext": {
+    "browserOnPlatform": "{browser} pe {platform}",
+    "superformApp": "Aplicația Superform"
+  },
+  "screenHeader": {
+    "goBack": "Înapoi"
+  },
+  "tabs": {
+    "earn": "Câștiguri",
+    "home": "Acasă",
+    "search": "Căutare",
+    "spend": "Cheltuiește",
+    "trade": "Tranzacționare"
+  },
+  "timeAgo": {
+    "day": "acum {total}z",
+    "hour": "acum {total}h",
+    "justNow": "chiar acum",
+    "minute": "acum {total}min",
+    "month": "acum {total}lu",
+    "second": "acum {total}s",
+    "year": "acum {total}a"
+  },
+  "timelock": {
+    "days": "{total, plural, one {{total} zi} few {{total} zile} other {{total} de zile}}",
+    "hours": "{total, plural, one {{total} oră} few {{total} ore} other {{total} de ore}}"
+  },
+  "transactionError": {
+    "changeFundingSource": "Schimbă sursa de finanțare",
+    "increaseBy": "Majorează cu ${deficit}"
+  },
+  "withdrawalProcessing": {
+    "subtitle": "Fondurile retrase vor fi depuse în contul tău în aproximativ {duration}.",
+    "title": "Retragere în curs: ~{duration}"
+  }
+}

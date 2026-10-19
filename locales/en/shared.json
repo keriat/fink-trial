@@ -1,0 +1,57 @@
+{
+  "accountSetup": {
+    "finishing": "Finishing account setup…"
+  },
+  "biometric": {
+    "cancel": "Cancel",
+    "fallback": "Fallback"
+  },
+  "errorContext": {
+    "on": "on"
+  },
+  "errorFallback": {
+    "contactSupport": "Contact Support",
+    "debugCopied": "Debug info copied!",
+    "logOut": "Log Out",
+    "retry": "Retry",
+    "retrying": "Retrying...",
+    "subtitleLine1": "The team is aware and working on it.",
+    "subtitleLine2": "We apologize for any inconvenience.",
+    "title": "The app is experiencing issues at the moment."
+  },
+  "passkeyContext": {
+    "browserOnPlatform": "{browser} on {platform}",
+    "superformApp": "Superform app"
+  },
+  "screenHeader": {
+    "goBack": "Go back"
+  },
+  "tabs": {
+    "earn": "Earn",
+    "home": "Home",
+    "search": "Search",
+    "spend": "Spend",
+    "trade": "Trade"
+  },
+  "timeAgo": {
+    "day": "{total}d ago",
+    "hour": "{total}h ago",
+    "justNow": "just now",
+    "minute": "{total}min ago",
+    "month": "{total}mo ago",
+    "second": "{total}s ago",
+    "year": "{total}y ago"
+  },
+  "timelock": {
+    "days": "{total, plural, one {{total} day} other {{total} days}}",
+    "hours": "{total, plural, one {{total} hour} other {{total} hours}}"
+  },
+  "transactionError": {
+    "changeFundingSource": "Change Funding Source",
+    "increaseBy": "Increase by ${deficit}"
+  },
+  "withdrawalProcessing": {
+    "subtitle": "Your withdrawn funds will be deposited to your account within approximately {duration}.",
+    "title": "Withdrawal Processing: ~{duration}"
+  }
+}

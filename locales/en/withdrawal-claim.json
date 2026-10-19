@@ -1,0 +1,37 @@
+{
+  "biometric": {
+    "cancel": "Cancel",
+    "prompt": "Please authenticate to claim your withdrawal",
+    "usePasscode": "Use Passcode"
+  },
+  "claiming": "Claiming",
+  "errors": {
+    "authUnavailable": "Authentication is unavailable on this device.",
+    "bundlerExpired": "The bundler operation has expired. Please try again.",
+    "claimFailed": "Claim failed. Please try again.",
+    "claimNotReady": "Claim is not ready. Please try again.",
+    "claimTimedOut": "Claim is taking longer than expected. Balances will update once it confirms.",
+    "vaultUnresolved": "Couldn't resolve this vault. Please try again later.",
+    "walletChanged": "Wallet changed during claim. Please try again.",
+    "walletInvalid": "Wallet address invalid. Please reconnect."
+  },
+  "sheet": {
+    "confirmAccessibility": "Confirm and claim withdrawal",
+    "confirmCta": "Confirm & Claim",
+    "fee": {
+      "amount": "Fee {fee}",
+      "calculating": "Calculating fee...",
+      "free": "FREE",
+      "unavailable": "Fee —"
+    },
+    "loading": "Calculating...",
+    "title": "Claim Withdrawal?"
+  },
+  "success": {
+    "done": "Done",
+    "title": "Withdrawal Claimed"
+  },
+  "toasts": {
+    "claimed": "Withdrawal claimed successfully"
+  }
+}
